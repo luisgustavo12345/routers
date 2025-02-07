@@ -10,8 +10,7 @@
     ios_banner:
       banner: login
       text: |
-        Nicolas Cage is the
-        Tiger King
+        tavo tavito
       state: present
 
   - name: Merge provided configuration with device configuration
@@ -20,3 +19,4 @@
         - name: GigabitEthernet2
           description: Configured and Merged by Ansible Network
           enabled: true
+
